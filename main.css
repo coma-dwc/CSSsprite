@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body {
+  background-color: #336;
+  color: #FFF;
+}
+
+.box {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.girl {
+  margin: 20px auto;
+}
